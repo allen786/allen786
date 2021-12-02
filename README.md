@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allen786.
-- 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in web development and Ethical Hacking.
+- 🌱 I’m currently learning HTML5, CSS3 and javascript ES6.
 - 💞️ I’m looking to collaborate on javascript.
 - 📫 How to reach me ... it's up to you.
 
